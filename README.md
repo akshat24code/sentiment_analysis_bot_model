@@ -3,7 +3,9 @@
 A Machine Learning-powered web application that performs real-time sentiment analysis using Hugging Face Transformers and Gradio. Users can enter any sentence and instantly receive a sentiment prediction (Positive or Negative) along with the model's confidence score.
 
 ---
+## 📸 Application Demo
 
+<img src="Screenshot%202026-06-08%20225045.png" width="100%">
 ## 📚 Project Overview
 
 Sentiment Analysis is a Natural Language Processing (NLP) technique used to determine the emotional tone behind a piece of text. This project leverages a pre-trained Transformer model from Hugging Face and provides an interactive web interface using Gradio.
@@ -34,15 +36,6 @@ This project was built as a hands-on learning exercise to understand:
 
 ---
 
-## 📸 Application Demo
-
-<p align="center">
-  <img src="images/sentiment-analysis-demo.png" alt="Sentiment Analysis Bot" width="100%">
-</p>
-
-The application analyzes user input text and predicts whether the sentiment expressed is **Positive** or **Negative** using a pre-trained Transformer model.
-
----
 
 ## 🛠️ Technologies Used
 
